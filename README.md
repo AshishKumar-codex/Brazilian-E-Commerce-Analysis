@@ -307,3 +307,46 @@ Analyzes category revenue, top products, top sellers, category revenue share, an
 ![Delivery & Customer Satisfaction](screenshots/Screenshot%202026-09-30%20103259.png)
 
 Analyzes delivery performance, on-time delivery, delivery time, delivery status, and customer satisfaction.
+
+---
+
+## 📁 Dataset
+
+The project uses the Brazilian Olist e-commerce dataset.
+
+The analysis uses the following datasets:
+
+- Orders
+- Customers
+- Order Items
+- Payments
+- Products
+- Sellers
+- Reviews
+- Product Category Translation
+
+The datasets were cleaned and prepared before being used for analysis.
+
+---
+
+## 🚀 Project Outcome
+
+This project demonstrates a complete end-to-end data analytics workflow:
+
+**Raw Data → Data Cleaning → EDA → Feature Engineering → SQL Analysis → Power BI → Business Insights**
+
+The project combines Python-based analysis, MySQL querying, and Power BI visualization to transform e-commerce data into business-focused insights.
+
+---
+
+## 👨‍💻 Author
+
+**Ashish Kumar**
+
+BCA — 3rd Year  
+Aspiring Data Analyst | Data Science & Machine Learning Enthusiast
+
+### Connect with me
+
+- GitHub: [AshishKumar-codex](https://github.com/AshishKumar-codex)
+- Linkedin: [Ashish Kumar](www.linkedin.com/in/ashishkumar-data)
