@@ -286,31 +286,24 @@ Brazilian-E-Commerce-Analysis/
 └── README.md
 ```
 
----
-
 ## 📊 Dashboard Preview
 
-### 01 — Executive Overview
-
-![Executive Overview](.screenshots/Screenshot 2026-09-30 103148.png)
+## 01 — Executive Overview
+![Executive Overview](screenshots/Screenshot%202026-09-30%20103148.png)
 
 Provides an overall view of revenue, orders, customers, AOV, review score, monthly revenue, customer-state performance, product categories, and order status.
 
-### 02 — Sales & Customer Analysis
-
-![Sales & Customer Analysis](.Brazilian-E-Commerce-Analysis/screenshots
-/Screenshot 2026-09-30 103148.png)
+## 02 — Sales & Customer Analysis
+![Sales & Customer Analysis](screenshots/Screenshot%202026-09-30%20103217.png)
 
 Analyzes sales trends, customer distribution, repeat customers, high-value customers, and payment methods.
 
-### 03 — Product & Seller Analysis
-
-![Product & Seller Analysis](.screenshots/Screenshot 2026-09-30 103236.png)
+## 03 — Product & Seller Analysis
+![Product & Seller Analysis](screenshots/Screenshot%202026-09-30%20103236.png)
 
 Analyzes category revenue, top products, top sellers, category revenue share, and seller distribution.
 
-### 04 — Delivery & Customer Satisfaction
-
-![Delivery & Customer Satisfaction](.screenshots/Screenshot 2026-09-30 103259.png)
+## 04 — Delivery & Customer Satisfaction
+![Delivery & Customer Satisfaction](screenshots/Screenshot%202026-09-30%20103259.png)
 
 Analyzes delivery performance, on-time delivery, delivery time, delivery status, and customer satisfaction.
