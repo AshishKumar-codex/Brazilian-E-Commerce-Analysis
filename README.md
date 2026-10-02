@@ -71,8 +71,6 @@ Interactive Dashboard
 
 ---
 
----
-
 ## 📊 Power BI Dashboard
 
 The project includes a four-page interactive Power BI dashboard designed to provide a complete view of e-commerce performance.
