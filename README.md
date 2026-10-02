@@ -48,7 +48,7 @@ The project follows a complete data analytics workflow from data cleaning and ex
 ---
 
 ## 🔄 Project Workflow
-
+```text
 Data Collection
       ↓
 Data Cleaning
@@ -68,7 +68,7 @@ SQL Analysis
 Power BI Data Modeling
       ↓
 Interactive Dashboard
-
+```
 ---
 
 ## 📊 Power BI Dashboard
@@ -114,4 +114,18 @@ The project includes a four-page interactive Power BI dashboard designed to prov
 - Orders by Delivery Status
 - Average Delivery Time by State
 
+---
 
+## 📈 Key Performance Indicators
+
+| KPI | Value |
+|---|---:|
+| Total Orders | 99,441 |
+| Total Revenue | R$16.01M |
+| Unique Customers | 96,096 |
+| Average Order Value | R$160.99 |
+| Repeat Customer Rate | 3.12% |
+| Average Delivery Time | 12.50 days |
+| On-Time Delivery Rate | 91.89% |
+| Average Review Score | 4.09 / 5 |
+| Total Reviews | 99K |
