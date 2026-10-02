@@ -70,4 +70,51 @@ Power BI Data Modeling
       ↓
 Interactive Dashboard
 
+---
+
+---
+
+## 📊 Power BI Dashboard
+
+The project includes a four-page interactive Power BI dashboard designed to provide a complete view of e-commerce performance.
+
+### 01 — Executive Overview
+
+- Total Orders
+- Total Revenue
+- Unique Customers
+- Average Order Value
+- Average Review Score
+- Monthly Revenue Trend
+- Revenue by Customer State
+- Top Product Categories
+- Order Status Distribution
+
+### 02 — Sales & Customer Analysis
+
+- Monthly Sales & Orders Trend
+- Customer Distribution by State
+- New vs Repeat Customers
+- Top Customers by Revenue
+- Payment Method Analysis
+- Repeat Customer Rate
+
+### 03 — Product & Seller Analysis
+
+- Product Category Revenue & Orders
+- Top 10 Products by Revenue
+- Top 10 Sellers by Revenue
+- Category Share by Revenue
+- Seller Distribution by State
+
+### 04 — Delivery & Customer Satisfaction
+
+- Monthly Orders & Delivery Performance
+- Average Delivery Time
+- On-Time Delivery Rate
+- Delivery Time Distribution
+- Customer Satisfaction by Review Score
+- Orders by Delivery Status
+- Average Delivery Time by State
+
 
