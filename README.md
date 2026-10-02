@@ -49,7 +49,6 @@ The project follows a complete data analytics workflow from data cleaning and ex
 
 ## 🔄 Project Workflow
 
-```text
 Data Collection
       ↓
 Data Cleaning
