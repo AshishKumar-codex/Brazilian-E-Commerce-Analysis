@@ -298,7 +298,8 @@ Provides an overall view of revenue, orders, customers, AOV, review score, month
 
 ### 02 — Sales & Customer Analysis
 
-![Sales & Customer Analysis](.screenshots/Screenshot 2026-09-30 103217.png)
+![Sales & Customer Analysis](.Brazilian-E-Commerce-Analysis/screenshots
+/Screenshot 2026-09-30 103148.png)
 
 Analyzes sales trends, customer distribution, repeat customers, high-value customers, and payment methods.
 
