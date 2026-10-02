@@ -129,3 +129,159 @@ The project includes a four-page interactive Power BI dashboard designed to prov
 | On-Time Delivery Rate | 91.89% |
 | Average Review Score | 4.09 / 5 |
 | Total Reviews | 99K |
+
+---
+
+## 💡 Key Business Insights
+
+### 📈 Sales & Revenue
+
+- The analysis covers **99,441 orders** with approximately **R$16.01M** in total payment value.
+- The average order value was approximately **R$160.99**.
+- **November 2017** recorded the highest monthly revenue in the analyzed period.
+
+### 👥 Customer Analysis
+
+- The dataset contains **96,096 unique customers**.
+- Repeat customers represented approximately **3.12%** of unique customers.
+- A relatively small group of customers contributed a significant share of overall customer spending.
+
+### 🛍️ Product & Category Analysis
+
+- **Health & Beauty** recorded the highest product-price sales among the analyzed categories.
+- **Watches & Gifts**, **Bed & Bath Table**, and **Sports & Leisure** were also among the higher-revenue categories.
+- Category-level analysis helps identify product areas contributing most to sales.
+
+### 🚚 Delivery & Customer Satisfaction
+
+- Average delivery time was approximately **12.50 days** for delivered orders.
+- The calculated on-time delivery rate was **91.89%**.
+- The average customer review score was **4.09 out of 5**.
+- The analysis showed a negative relationship between delivery time and review score, indicating that longer delivery times were generally associated with - lower customer ratings.
+
+---
+
+## 🗄️ SQL Analysis
+
+SQL analysis was performed using **MySQL** to answer business-focused questions across sales, customers, products, sellers, delivery, payments, and customer satisfaction.
+
+The analysis includes:
+
+- Basic business KPIs
+- Revenue analysis
+- Average Order Value (AOV)
+- Revenue by customer state
+- Product category sales
+- Monthly revenue trends
+- Top products by revenue
+- Top sellers by revenue
+- Customer order frequency
+- Repeat customer analysis
+- Customer lifetime value
+- Seller performance
+- Delivery performance by state
+- Delivery delay vs review score
+- Payment installment analysis
+- High-value customer analysis
+- Category satisfaction analysis
+- Seller ranking using window functions
+- Top sellers by state
+- Month-over-month revenue growth
+- Cumulative revenue analysis
+- Category revenue contribution
+- Customer spending rankings
+- First vs latest purchase analysis
+- Repeat customer revenue
+- Customer cohort analysis
+
+### SQL Techniques Used
+
+- `SELECT`
+- `WHERE`
+- `GROUP BY`
+- `HAVING`
+- `ORDER BY`
+- `JOIN`
+- `CASE`
+- Subqueries
+- CTEs
+- Aggregate Functions
+- Date Functions
+- Window Functions
+- `RANK()`
+- `LAG()`
+- Running Totals
+
+The complete SQL work is available in [`SQL_Analysis.ipynb`](./notebooks/SQL_Analysis.ipynb).
+
+---
+
+## 🐍 Python Analysis
+
+Python was used throughout the project for data preparation, exploratory analysis, feature engineering, and business insight generation.
+
+### Data Preparation
+
+- Loaded and inspected the e-commerce datasets
+- Checked data types and missing values
+- Cleaned and prepared individual datasets
+- Converted date and timestamp columns
+- Merged related datasets for analysis
+- Created analysis-ready features
+
+### Exploratory Data Analysis
+
+- Univariate analysis
+- Bivariate analysis
+- Multivariate analysis
+- Sales and revenue analysis
+- Customer behavior analysis
+- Product and category analysis
+- Seller analysis
+- Delivery performance analysis
+- Customer review analysis
+
+### Feature Engineering
+
+Features were created to support business analysis, including:
+
+- Delivery days
+- Delivery delay
+- Delivery status
+- Order month
+- Order year
+- Order year-month
+- Order day
+- Order hour
+- Customer purchase behavior metrics
+
+### Python Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+  ---
+
+## 📂 Project Structure
+
+```text
+Brazilian-E-Commerce-Analysis/
+│
+├── data/
+│   └── Cleaned datasets
+│
+├── notebooks/
+│   ├── clean_data_analysis.ipynb
+│   ├── E_commerce_cohort_EDA.ipynb
+│   └── SQL_Analysis.ipynb
+│
+├── powerbi/
+│   └── Power BI dashboard
+│
+├── screenshots/
+│   └── Dashboard screenshots
+│
+└── README.md
+```
